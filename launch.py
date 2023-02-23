@@ -5,7 +5,8 @@ import sys
 import importlib.util
 import shlex
 import platform
-import argparsemport json
+import argparse
+import json
 
 dir_repos = "repositories"
 dir_extensions = "extensions"
